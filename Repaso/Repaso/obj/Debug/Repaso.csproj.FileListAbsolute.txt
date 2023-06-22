@@ -6,3 +6,11 @@ C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Repaso\Repaso\obj\Debug\Repaso.
 C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
 C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Repaso\Repaso\obj\Debug\Repaso.exe
 C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Repaso\Repaso\obj\Debug\Repaso.pdb
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\bin\Debug\Repaso.exe
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\bin\Debug\Repaso.pdb
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\obj\Debug\Repaso.csproj.AssemblyReference.cache
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\obj\Debug\Repaso.csproj.SuggestedBindingRedirects.cache
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\obj\Debug\Repaso.exe
+C:\Users\la_so\Escritorio\ejercicios-git-C#\Ejercicios-Csharp\Repaso\Repaso\obj\Debug\Repaso.pdb
