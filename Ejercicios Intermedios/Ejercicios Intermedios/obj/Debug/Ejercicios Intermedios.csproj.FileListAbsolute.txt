@@ -1,0 +1,8 @@
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\bin\Debug\Ejercicios Intermedios.exe.config
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\bin\Debug\Ejercicios Intermedios.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\bin\Debug\Ejercicios Intermedios.pdb
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\obj\Debug\Ejercicios Intermedios.csproj.AssemblyReference.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\obj\Debug\Ejercicios Intermedios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\obj\Debug\Ejercicios Intermedios.csproj.CoreCompileInputs.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\obj\Debug\Ejercicios Intermedios.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios Intermedios\Ejercicios Intermedios\obj\Debug\Ejercicios Intermedios.pdb

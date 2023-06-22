@@ -1,0 +1,8 @@
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\bin\Debug\Alumnado.exe.config
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\bin\Debug\Alumnado.exe
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\bin\Debug\Alumnado.pdb
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\obj\Debug\Alumnado.csproj.AssemblyReference.cache
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\obj\Debug\Alumnado.csproj.SuggestedBindingRedirects.cache
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\obj\Debug\Alumnado.csproj.CoreCompileInputs.cache
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\obj\Debug\Alumnado.exe
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Alumnado\Alumnado\obj\Debug\Alumnado.pdb

@@ -1,0 +1,4 @@
+KLM1023;Citroen;C2;Gasolina;30000
+HNB526;Peugot;308;Hibrido;100000
+LMN587;Renault;Clio;Diesel;250000
+GHJ123;Seat;Ibiza;Hibrido;100000

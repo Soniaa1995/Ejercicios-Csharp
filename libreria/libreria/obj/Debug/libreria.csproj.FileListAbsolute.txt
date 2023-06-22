@@ -1,0 +1,8 @@
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\bin\Debug\libreria.exe.config
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\bin\Debug\libreria.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\bin\Debug\libreria.pdb
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\obj\Debug\libreria.csproj.AssemblyReference.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\obj\Debug\libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\obj\Debug\libreria.csproj.CoreCompileInputs.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\obj\Debug\libreria.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\libreria\libreria\obj\Debug\libreria.pdb

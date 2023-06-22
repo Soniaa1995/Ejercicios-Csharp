@@ -1,0 +1,8 @@
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\bin\Debug\GuardarFichero.exe.config
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\bin\Debug\GuardarFichero.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\bin\Debug\GuardarFichero.pdb
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\obj\Debug\GuardarFichero.csproj.AssemblyReference.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\obj\Debug\GuardarFichero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\obj\Debug\GuardarFichero.csproj.CoreCompileInputs.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\obj\Debug\GuardarFichero.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\GuardarFichero\GuardarFichero\obj\Debug\GuardarFichero.pdb

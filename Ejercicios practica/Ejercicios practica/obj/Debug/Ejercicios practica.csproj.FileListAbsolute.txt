@@ -1,0 +1,8 @@
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\bin\Debug\Ejercicios practica.exe.config
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\bin\Debug\Ejercicios practica.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\bin\Debug\Ejercicios practica.pdb
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\obj\Debug\Ejercicios practica.csproj.AssemblyReference.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\obj\Debug\Ejercicios practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\obj\Debug\Ejercicios practica.csproj.CoreCompileInputs.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\obj\Debug\Ejercicios practica.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios practica\Ejercicios practica\obj\Debug\Ejercicios practica.pdb

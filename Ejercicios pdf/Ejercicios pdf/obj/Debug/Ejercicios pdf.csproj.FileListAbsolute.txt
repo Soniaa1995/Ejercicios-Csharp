@@ -1,0 +1,8 @@
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\bin\Debug\Ejercicios pdf.exe.config
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\bin\Debug\Ejercicios pdf.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\bin\Debug\Ejercicios pdf.pdb
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\obj\Debug\Ejercicios pdf.csproj.AssemblyReference.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\obj\Debug\Ejercicios pdf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\obj\Debug\Ejercicios pdf.csproj.CoreCompileInputs.cache
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\obj\Debug\Ejercicios pdf.exe
+C:\Users\Sonia\Desktop\Ejercicios C#\Ejercicios pdf\Ejercicios pdf\obj\Debug\Ejercicios pdf.pdb

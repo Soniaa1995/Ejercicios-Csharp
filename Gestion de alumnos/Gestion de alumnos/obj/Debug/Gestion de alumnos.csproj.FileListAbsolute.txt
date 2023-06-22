@@ -1,0 +1,8 @@
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\bin\Debug\Gestion de alumnos.exe.config
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\bin\Debug\Gestion de alumnos.exe
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\bin\Debug\Gestion de alumnos.pdb
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.AssemblyReference.cache
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\obj\Debug\Gestion de alumnos.exe
+C:\Users\la_so\OneDrive\Escritorio\Ejercicios C#\Gestion de alumnos\Gestion de alumnos\obj\Debug\Gestion de alumnos.pdb
